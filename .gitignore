@@ -14,7 +14,7 @@ env
 *.joblib
 
 # Misc (playground/large data file)
-data/bluebook_for_bulldozers/*
-data/bluebook-for-bulldozers/
+bulldozer-price-prediction-project/data/bluebook_for_bulldozers/*
+bulldozer-price-prediction-project/data/bluebook-for-bulldozers/
 *__MACOSX*
 notebook-playground.ipynb
